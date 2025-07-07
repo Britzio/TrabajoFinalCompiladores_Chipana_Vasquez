@@ -1,0 +1,90 @@
+Paciente: Raúl Sánchez Prado, 77889900
+Diagnostico: Sinusitis crónica
+Medicamento: Cefalexina, 500 mg, Tableta, Oral, 10, Tomar cada ocho horas.
+Medicamento: Ibuprofeno, 400 mg, Tableta, Oral, 6, Tomar cada seis horas si hay dolor.
+Expede: 23-06-25 Caduce: 23-07-25
+
+Paciente: Camila Ortega Ramos, 66554433
+Diagnostico: Infección urinaria
+Medicamento: Nitrofurantoína, 100 mg, Tableta, Oral, 10, Tomar cada doce horas.
+Medicamento: Paracetamol, 500 mg, Tableta, Oral, 4, Tomar si hay fiebre.
+Expede: 24-06-25 Caduce: 24-07-25
+
+Paciente: Juan Pérez Gómez, 12345678
+Diagnostico: Gripe común
+Medicamento: Paracetamol, 500 mg, Tableta, Oral, 5, Tomar cada ocho horas.
+Medicamento: Ibuprofeno, 10 mg, Tableta, Oral, 5, Tomar cada cinco horas.
+Expede: 01-05-25 Caduce: 01-06-25
+
+Paciente: María López Salazar, 87654321
+Diagnostico: Bronquitis aguda
+Medicamento: Amoxicilina, 250 mg, Cápsula, Oral, 10, Tomar cada doce horas.
+Medicamento: Ambroxol, 30 mg, Jarabe, Oral, 3, Tomar tres veces al día.
+Expede: 02-05-25 Caduce: 02-07-25
+
+Paciente: Esteban Vargas Paredes, 33446677
+Diagnostico: Bronquitis aguda
+Medicamento: Azitromicina, 500 mg, Tableta, Oral, 3, Tomar una diaria por tres días.
+Medicamento: Salbutamol, 100 mcg, Inhalador, Inhalatoria, 1, Usar cada seis horas si hay tos persistente.
+Expede: 26-06-25 Caduce: 26-08-25
+
+Paciente: Daniela Campos Silva, 77665544
+Diagnostico: Sinusitis crónica
+Medicamento: Loratadina, 10 mg, Tableta, Oral, 10, Tomar una vez al día.
+Medicamento: Mometasona, 50 mcg, Spray, Nasal, 1, Usar dos veces al día.
+Expede: 27-06-25 Caduce: 27-07-25
+
+Paciente: Diego Martínez Rojas, 99887766
+Diagnostico: Gripe común
+Medicamento: Paracetamol, 500 mg, Tableta, Oral, 6, Tomar cada ocho horas.
+Medicamento: Loratadina, 10 mg, Tableta, Oral, 5, Tomar una vez al día.
+Expede: 20-06-25 Caduce: 20-07-25
+
+Paciente: Fabiola Núñez Castro, 44556677
+Diagnostico: Rinitis alérgica
+Medicamento: Cetirizina, 10 mg, Tableta, Oral, 10, Tomar una vez al día.
+Medicamento: Mometasona, 50 mcg, Spray, Nasal, 1, Usar en cada fosa nasal cada doce horas.
+Expede: 22-06-25 Caduce: 22-08-25
+
+Paciente: Carlos Méndez Ruiz, 11223344
+Diagnostico: Sinusitis crónica
+Medicamento: Cefalexina, 500 mg, Tableta, Oral, 14, Tomar cada ocho horas.
+Medicamento: Loratadina, 10 mg, Tableta, Oral, 7, Tomar una vez al día.
+Medicamento: Salbutamol, 100 mcg, Inhalador, Inhalatoria, 1, Usar cada seis horas si hay dificultad respiratoria.
+Expede: 05-06-25 Caduce: 05-08-25
+
+Paciente: Alejandro Torres Zúñiga, 22113344
+Diagnostico: Bronquitis aguda
+Medicamento: Ambroxol, 30 mg, Jarabe, Oral, 2, Tomar tres veces al día.
+Medicamento: Salbutamol, 100 mcg, Inhalador, Inhalatoria, 1, Usar en caso de dificultad respiratoria.
+Expede: 25-06-25 Caduce: 25-08-25
+
+Paciente: Ana Teresa Valdivia, 33445566
+Diagnostico: Bronquitis aguda
+Medicamento: Desloratadina, 5 mg, Tableta, Oral, 10, Tomar una vez al día.
+Medicamento: Fluticasona, 50 mcg, Spray, Nasal, 1, Usar dos veces al día.
+Expede: 10-06-25 Caduce: 10-09-25
+
+Paciente: Rodrigo Tello Guzmán, 11998877
+Diagnostico: Faringitis viral
+Medicamento: Ibuprofeno, 400 mg, Tableta, Oral, 6, Tomar cada ocho horas si hay dolor.
+Medicamento: Lidocaína, 2 mgml, Enjuague, Bucal, 1, Hacer gárgaras cada seis horas.
+Expede: 28-06-25 Caduce: 28-07-25
+
+Paciente: Gabriela Rivas Cáceres, 88887777
+Diagnostico: Rinitis alérgica
+Medicamento: Desloratadina, 5 mg, Tableta, Oral, 10, Tomar una vez al día.
+Medicamento: Fluticasona, 50 mcg, Spray, Nasal, 1, Aplicar dos veces al día.
+Expede: 29-06-25 Caduce: 29-08-25
+
+Paciente: Lucho Alberto Gómez, 55667788
+Diagnostico: Infección urinaria
+Medicamento: Ciprofloxacino, 500 mg, Tableta, Oral, 14, Tomar cada doce horas.
+Medicamento: Fenazopiridina, 100 mg, Tableta, Oral, 6, Tomar cada ocho horas por tres días.
+Expede: 15-06-25 Caduce: 15-07-25
+
+Paciente: Manuel Ocampo Herrera, 66778899
+Diagnostico: Bronquitis aguda
+Medicamento: Ambroxol, 30 mg, Jarabe, Oral, 2, Tomar tres veces al día.
+Medicamento: Paracetamol, 500 mg, Tableta, Oral, 6, Tomar cada ocho horas si hay fiebre.
+Expede: 30-06-25 Caduce: 30-07-25

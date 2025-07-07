@@ -1,0 +1,30 @@
+Paciente: Juan Pérez Gómez, 12345678
+Diagnostico: Gripe común
+Medicamento: Paracetamol, 500 mg, Tableta, Oral, 5, Tomar cada ocho horas.
+Medicamento: Ibuprofeno, 10 mg, Tableta, Oral, 5, Tomar cada cinco horas.
+Expede: 01-05-25 Caduce: 01-06-25
+
+Paciente: María López Salazar, 87654321
+Diagnostico: Bronquitis aguda
+Medicamento: Amoxicilina, 250 mg, Cápsula, Oral, 10, Tomar cada doce horas.
+Medicamento: Ambroxol, 30 mg, Jarabe, Oral, 3, Tomar tres veces al día.
+Expede: 02-05-25 Caduce: 02-07-25
+
+Paciente: Carlos Méndez Ruiz, 11223344
+Diagnostico: Sinusitis crónica
+Medicamento: Cefalexina, 500 mg, Tableta, Oral, 14, Tomar cada ocho horas.
+Medicamento: Loratadina, 10 mg, Tableta, Oral, 7, Tomar una vez al día.
+Medicamento: Salbutamol, 100 mcg, Inhalador, Inhalatoria, 1, Usar cada seis horas si hay dificultad respiratoria.
+Expede: 05-06-25 Caduce: 05-08-25
+
+Paciente: Ana Teresa Valdivia, 33445566
+Diagnostico: Bronquitis aguda
+Medicamento: Desloratadina, 5 mg, Tableta, Oral, 10, Tomar una vez al día.
+Medicamento: Fluticasona, 50 mcg, Spray, Nasal, 1, Usar dos veces al día.
+Expede: 10-06-25 Caduce: 10-09-25
+
+Paciente: Lucho Alberto Gómez, 55667788
+Diagnostico: Infección urinaria
+Medicamento: Ciprofloxacino, 500 mg, Tableta, Oral, 14, Tomar cada doce horas.
+Medicamento: Fenazopiridina, 100 mg, Tableta, Oral, 6, Tomar cada ocho horas por tres días.
+Expede: 15-06-25 Caduce: 15-07-25
